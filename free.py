@@ -1,5 +1,8 @@
 
 print('updating....')
 print('update done')
-import vfree
-vfree.fia()
+jalan('wait for next update')
+print('tnx for waiting')
+exit()
+
+
